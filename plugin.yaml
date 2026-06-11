@@ -1,0 +1,5 @@
+name: contract_review
+version: "0.2.0"
+description: "合同审核插件 — 支持提交审核任务（forward）、查询任务状态（status）、列出任务（tasks）"
+provides_tools:
+  - contract_review
